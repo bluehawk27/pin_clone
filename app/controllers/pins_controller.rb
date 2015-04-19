@@ -1,5 +1,6 @@
 class PinsController < ApplicationController
   before_action :find_pin, only: [:show, :update, :edit, :destroy]
+
   def index
     @pins = Pin.all.order("created_at DESC")
   end
