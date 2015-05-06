@@ -19,6 +19,9 @@ gem 'bootstrap-sass', '~> 3.3.4.1'
 gem 'simple_form', '~> 3.1.0'
 gem 'paperclip', '~> 4.2.1'
 
+#jQuery plug in
+gem 'masonry-rails', '~> 0.2.4'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
