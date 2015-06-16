@@ -1,6 +1,6 @@
 #README
 
-###This is a Pinterest Clone that I built to practice implementing devise and some other handy gems such as acts_as_votable.  A full list can be seen in the gem file.
+####This is a Pinterest Clone that I built to practice implementing devise and some other handy gems such as acts_as_votable.  A full list can be seen in the gem file.
 
 **A User can view all the submitted pins.**
 ![pin Clone](app/assets/images/pin_index.png)
